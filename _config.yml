@@ -26,7 +26,7 @@ license: MIT License
 
 
 # theme variables, change this to make site looks best.
-baseurl: /lemma-theme
+baseurl: /theme-test
 paginate: 2
 
 
